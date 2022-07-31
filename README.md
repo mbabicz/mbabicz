@@ -1,5 +1,5 @@
 ### Hi there 👋   
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kiwuz.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mbabicz.visitor-badge)
 
 
 ------------------------------------------------------------------
@@ -22,7 +22,7 @@
 ------------------------------------------------------------------
 
 ### Stats
-| <a href="https://github.com/kiwuz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwuz&layout=compact" /></a> | <a href="https://github.com/kiwuz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kiwuz&hide=prs,issues&show_icons=true&include_all_commits=true&theme=midnight-purple" /></a> |
+| <a href="https://github.com/mbabicz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbabicz&layout=compact" /></a> | <a href="https://github.com/mbabicz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mbabicz&hide=prs,issues&show_icons=true&include_all_commits=true&theme=midnight-purple" /></a> |
 | ------------- | ------------- |
 
 
@@ -32,7 +32,7 @@
 
 
 <!--
-**kiwuz/kiwuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mbabicz/mbabicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
