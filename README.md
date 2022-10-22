@@ -1,4 +1,4 @@
-# Michał Babicz 
+# MICHAŁ BABICZ
 <a href="https://github.com/mbabicz"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=mbabicz.visitor-badge" /></a> 
 
 
