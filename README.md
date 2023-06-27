@@ -1,5 +1,5 @@
 # MICHAŁ BABICZ
-<a href="https://github.com/mbabicz"><img align="center" src="https://komarev.com/ghpvc/?username=mbabicz&color=brightgreen&style=for-the-badge" /></a> 
+<a href="https://github.com/mbabicz"><img src="https://komarev.com/ghpvc/?username=mbabicz&color=brightgreen&style=for-the-badge" /></a> 
 
 ## Work with
 
@@ -9,4 +9,4 @@
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/micha%C5%82-babicz-5578151ab/) [<img align="left" alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:michal@babicz.dev) <br /><br />
 
-<a href="https://github.com/mbabicz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbabicz&theme=github_dark" /></a> 
+<a href="https://github.com/mbabicz"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbabicz&theme=github_dark" /></a> 
