@@ -4,13 +4,13 @@
 <p align="center">
   <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/iOS%20Development-000000?style=for-the-badge&logo=apple&logoColor=orange&" width="216" height="36"></a>
   &emsp;
-  <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift&logoColor=orange" width="100" height="36"></a>
+  <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift&logoColor=orange" width="120" height="36"></a>
   &emsp;
-  <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=orange" width="120" height="36"></a>
+  <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=orange" width="130" height="36"></a>
   &emsp;
-  <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=orange" width="108" height="36"></a>
+  <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=orange" width="116" height="36"></a>
   &emsp;
-  <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=orange" width="112" height="36"></a>
+  <a href="https://github.com/mbabicz"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=orange" width="120" height="36"></a>
 </p>
 
 <h1 align="center"></h1>
